@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RIDER_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../..">
+      <sourceFolder url="file://$MODULE_DIR$/../../Example.Api" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Example.Application" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Example.Core" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Example.Domain" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Example.Api/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Example.Api/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Example.Application/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Example.Application/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Example.Core/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Example.Core/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Example.Domain/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Example.Domain/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../packages" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
